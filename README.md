@@ -24,7 +24,7 @@ Security Engineer | Penetration Testing | Web Developer
 
 </br>
 
-<!-- [![CyberSecurityUP GitHub stats](https://github-readme-stats.vercel.app/api?username=TSHRPRWL&theme=dark)](https://github.com/TSHRPRWL/github-readme-stats) -->
+ [![CyberSecurityUP GitHub stats](https://github-readme-stats.vercel.app/api?username=TSHRPRWL&theme=dark)](https://github.com/TSHRPRWL/github-readme-stats) 
 
 :computer: I'm Security Engineer.
 
