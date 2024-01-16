@@ -32,7 +32,7 @@ Security Engineer | Penetration Testing | Web Developer
 
 :books: I'm currently learning all about IT and Security.
 
-## Social Networks
+### Social Networks
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/TSHRPRWL)](https://github.com/TSHRPRWL)
 
