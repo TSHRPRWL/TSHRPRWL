@@ -31,7 +31,10 @@ Security Engineer | Penetration Testing | Web Developer
 :books: I'm currently learning all about IT and Security.
 
 
- [![CyberSecurityUP GitHub stats](https://github-readme-stats.vercel.app/api?username=TSHRPRWL&theme=dark)](https://github.com/TSHRPRWL/github-readme-stats) 
+ [![TSHRPRWL GitHub stats](https://github-readme-stats.vercel.app/api?username=TSHRPRWL&theme=dark)](https://github.com/TSHRPRWL/github-readme-stats) 
+ 
+ [![TSHRPRWL GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TSHRPRWL&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](https://github.com/TSHRPRWL)
+
 
 ### Social Networks
 
