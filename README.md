@@ -46,11 +46,8 @@ Security Engineer | Penetration Testing | Web Developer
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/tshrprwl/)](https://www.instagram.com/tshrprwl/)
 
-### Programming Languages
+<!--### Programming Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TSHRPRWL&langs_count=8)](https://github.com/TSHRPRWL/github-readme-stats) 
 
-
-
-
-<!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TSHRPRWL&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages)](https://github.com/TSHRPRWL) -->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TSHRPRWL&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages)](https://github.com/TSHRPRWL) -->
