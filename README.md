@@ -44,11 +44,13 @@ Security Engineer | Penetration Testing | Web Developer
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com//tshrprwl2898)](https://twitter.com/tshrprwl2898)
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/tshrprwl/)](https://www.instagram.com/tshrprwl/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/tshrprwl/)](https://www.instagram.com/tshrprw
 
-
-<!-- ## Programming Languages
+### Programming Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TSHRPRWL&langs_count=8)](https://github.com/TSHRPRWL/github-readme-stats) 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TSHRPRWL&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages)](https://github.com/TSHRPRWL) -->
+l/)
+
+
+<!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TSHRPRWL&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages)](https://github.com/TSHRPRWL) -->
