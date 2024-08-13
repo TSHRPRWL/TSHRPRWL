@@ -28,7 +28,7 @@ Dedicated Security Engineer with 2 years of experience in web application testin
 ## Experience
 ### Cybersecurist Technologies, Pune, Maharashtra
 #### Jr. Cybersecurity Engineer | Sep 2023 – Present
-- Led AWS Cloud Security Policy Review projects, delivering detailed reports with identified issues.
+- AWS Cloud Security Policy Review projects, delivering detailed reports with identified issues.
 - Conducted comprehensive penetration tests to identify application vulnerabilities.
 - Delivered projects on time, meeting all milestones successfully.
 - Generated detailed reports with mitigation strategies and presented findings to clients.
