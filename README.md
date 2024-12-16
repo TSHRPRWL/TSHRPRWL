@@ -23,10 +23,10 @@ Security Engineer | Penetration Tester | Web Developer
 [![TSHRPRWL GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TSHRPRWL&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](https://github.com/TSHRPRWL)
 
 ## Summary
-Dedicated Security Engineer with 2 years of experience in web application testing, vulnerability analysis, penetration testing, cloud security policy review, and threat modeling for a wide range of applications. Proficient in identifying security flaws using various technologies and approaches. Passionate about enhancing the security of software systems and staying updated with the latest industry developments and best practices.
+Dedicated Security Engineer with 2.5 years of experience in web application testing, vulnerability analysis, penetration testing, cloud security policy review, and threat modeling for a wide range of applications. Proficient in identifying security flaws using various technologies and approaches. Passionate about enhancing the security of software systems and staying updated with the latest industry developments and best practices.
 
 ## Experience
-### Cybersecurist Technologies, Pune, Maharashtra
+### CyberSecurist Technologies, Pune, Maharashtra
 #### Jr. Cybersecurity Engineer | Sep 2023 – Present
 - AWS Cloud Security Policy Review projects, delivering detailed reports with identified issues.
 - Conducted comprehensive penetration tests to identify application vulnerabilities.
