@@ -12,7 +12,7 @@ Security Engineer | Penetration Tester | Web Developer
 
 ### :computer: I'm a Security Engineer from BHARAT🇮🇳.
 
-### :books: Currently learning all about IT and Security.
+### :books: Currently learning all about CyberSecurity.
 
 ### 📫 How to reach me:
 - Email: [tshrprwl@gmail.com](mailto:tshrprwl@gmail.com)
