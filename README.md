@@ -26,8 +26,12 @@ Security Engineer | Penetration Tester | Web Developer
 Dedicated Security Engineer with 2.5 years of experience in web application testing, vulnerability analysis, penetration testing, cloud security policy review, and threat modeling for a wide range of applications. Proficient in identifying security flaws using various technologies and approaches. Passionate about enhancing the security of software systems and staying updated with the latest industry developments and best practices.
 
 ## Experience
+### Allvue Systems, LLC, Pune , Maharashtra
+#### Tech Risk Security Operations Engineer I | Feb 2025 - Present
+
+
 ### CyberSecurist Technologies, Pune, Maharashtra
-#### Jr. Cybersecurity Engineer | Sep 2023 – Present
+#### Jr. Cybersecurity Engineer | Sep 2023 – Jan 2025
 - AWS Cloud Security Policy Review projects, delivering detailed reports with identified issues.
 - Conducted comprehensive penetration tests to identify application vulnerabilities.
 - Delivered projects on time, meeting all milestones successfully.
