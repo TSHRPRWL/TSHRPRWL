@@ -27,7 +27,7 @@ Dedicated Security Engineer with 2.5 years of experience in web application test
 
 ## Experience
 ### Allvue Systems, LLC, Pune , Maharashtra
-#### Tech Risk Security Operations Engineer I | Feb 2025 - Present
+#### Tech Risk Security Operations Engineer | Feb 2025 - Present
 
 
 ### CyberSecurist Technologies, Pune, Maharashtra
